@@ -1,5 +1,5 @@
-Peuplade VM
-===========
+HPC Genomic Workflow Optimisation - Slave Server
+================================================
 
 Setup
 -----
